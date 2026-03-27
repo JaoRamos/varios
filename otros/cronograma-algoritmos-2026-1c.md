@@ -6,7 +6,7 @@
 |  2 (24/03–26/03) | **FERIADO** (24/03)                                                                    | **Tema 2 (Strings)**: pattern matching (Z/KMP)            |
 |  3 (31/03–02/04) | **Tema 2 (Strings)**: tries, prefix trees,   PARO                                      | **FERIADO** (02/04)  PARO                                 |
 |  4 (07/04–09/04) | **Tema 2 (strings)**: variantes y practica                                             | **Tema 3**: backtracking y recursion                      |
-|  5 (14/04–16/04) | **Evalulacion 1 (Mods. 1 y 2 )**                                                       | **Tema 4**: programacion dinamica top-down                |
+|  5 (14/04–16/04) | **Evaluación 1 (Mods. 1 y 2 )**                                                       | **Tema 4**: programacion dinamica top-down                |
 |  6 (21/04–23/04) | Práctica: backtracking y recursion                                                     | **Tema 4:** DP como estructura de datos + reconstruccion  |
 |  7 (28/04–30/04) | **Tema 4**: DP practica y reducción de estados  PARO                                   | **Tema 4**: DP bottom up   PARO                           |
 |  8 (05/05–07/05) | **Evaluación 2 (Temas 3 y 4)**                                                         |  **Tema 5**: D&C: ordenar/buscar/particionar (casos)      |
